@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+__pycache__/
+for-client/
+
+output.xlsx
+pyvenv.cfg
+fb_data.xlsx
